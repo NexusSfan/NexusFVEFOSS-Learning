@@ -1,4 +1,4 @@
 # NexusFVEFOSS-Learning
-[un](block)
+[un](blocked.games)
 
 joke software
