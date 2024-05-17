@@ -13,7 +13,7 @@ function adminPanel() {
   let pass = prompt("Testing window. Enter password or press cancel.");
   if (pass == "rebl0sck...classr0s0sm.g0s0sgle.c0sm/h?d0sntunbl0sckitsn0stc0s0sl") {
     var adminPanelWindow=window.open('');
-    adminPanelWindow.document.write("<title>NEXUSFVEFOSS LEARNING TESTING WINDOW</title><p>Test Window! <br />Random stuff idk</p><iframe src=\"https://developmentbuild.herokuapp.com\" width=\"1000\" height=\"1000\"></iframe><iframe src=\"https://civilwar.v0x.eu\" width=\"1000\" height=\"1000\"></iframe></iframe><iframe src=\"https://radon.games/proxy\" width=\"1000\" height=\"1000\"></iframe><iframe src=\"https://garfieldapp.tk\" width=\"1000\" height=\"1000\"></iframe>");
+    adminPanelWindow.document.write("<title>NEXUSFVEFOSS LEARNING TESTING WINDOW</title><p>Test Window! <br />Random stuff idk</p></iframe>");
   } else {
     
   }
